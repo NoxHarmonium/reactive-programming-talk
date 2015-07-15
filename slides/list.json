@@ -1,1 +1,19 @@
-["index.md"]
+[
+    "index.md",
+    "what-the-frp-is-functional-reactive-programming.md",
+    "why-do-i-want-to-use-frp.md",
+    [
+    	"wrangling-asynchronous-code.md",
+    	"wrangling-asynchronous-code/the-good-ol-days.md",
+    	"wrangling-asynchronous-code/pull-programming.md",
+    	"wrangling-asynchronous-code/current-era.md",
+    	"wrangling-asynchronous-code/push-programming.md",
+    	"wrangling-asynchronous-code/push-programming-2.md",
+    	"wrangling-asynchronous-code/turning-push-into-pull.md",
+    	"wrangling-asynchronous-code/turning-push-into-pull2.md"
+    ],
+    [
+    	"powerful-data-transformation.md",
+    	"composibility.md"
+    ]
+]
