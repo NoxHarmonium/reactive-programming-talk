@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Reactive Programming Concepts",
+    "packageVersion": "0.0.1",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "noxharmonium",
+    "githubRepository": "reactive-programming-talk"
+  }
+}
